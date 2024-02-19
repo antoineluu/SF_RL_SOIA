@@ -11,4 +11,5 @@ python -m retro.import . # Run this from the roms folder
 Ensuite, il faut importer différentes bibliothèques python :
 ```bash
 ! pip install gym==0.21.0  
+! pip install gym-retro
 ```
